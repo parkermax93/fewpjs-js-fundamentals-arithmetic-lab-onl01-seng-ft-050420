@@ -5,4 +5,4 @@ const num2 = 2
 
 const multiply = num1 * num2
 
-let random = Math.floor(math.random() * 1000) +1;
+let random = Math.floor(math.random() * 1000) +1
