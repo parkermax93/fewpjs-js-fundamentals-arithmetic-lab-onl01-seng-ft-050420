@@ -9,4 +9,4 @@ var random = Math.ceil(Math.random() * 10 + 1 );
 
 var mod = 14 % 5;
 
-var max = 
+var max = Math.max()
